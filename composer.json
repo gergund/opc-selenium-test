@@ -1,0 +1,8 @@
+{
+    "name": "Opc-ext/magento2",
+    "description": "Magento2 ECG OPC extension phpunit/functional tests",
+    "require": {
+        "phpunit/phpunit": "3.7.38",
+        "phpunit/phpunit-selenium": "1.4.2"
+    }
+}

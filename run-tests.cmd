@@ -1,0 +1,1 @@
+php -f ./vendor/phpunit/phpunit/composer/bin/phpunit -- --bootstrap ./vendor/autoload.php --log-json tests.log ./tests/
